@@ -1,0 +1,49 @@
+[{
+        "name": "Candy Bar",
+        "price": 1.00,
+        "quantity": 20,
+        "imageName": "item"
+    },
+    {
+        "name": "Soda",
+        "price": 1.00,
+        "quantity": 20,
+        "imageName": "item"
+    },
+    {
+        "name": "Apple",
+        "price": 0.50,
+        "quantity": 20,
+        "imageName": "item"
+    },
+    {
+        "name": "Water",
+        "price": 2.00,
+        "quantity": 20,
+        "imageName": "item"
+    },
+    {
+        "name": "Cake",
+        "price": 10.00,
+        "quantity": 20,
+        "imageName": "item"
+    },
+    {
+        "name": "Club Sandwich",
+        "price": 5.00,
+        "quantity": 20,
+        "imageName": "item"
+    },
+    {
+        "name": "Toy",
+        "price": 1.00,
+        "quantity": 5,
+        "imageName": "item"
+    },
+    {
+        "name": "Gold Bar",
+        "price": 10000.00,
+        "quantity": 1,
+        "imageName": "item"
+    }
+]
